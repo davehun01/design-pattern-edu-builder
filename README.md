@@ -1,7 +1,7 @@
 # design-pattern-edu-builder
 Exercise to showcase the builder pattern
 
-This is a solution to an software dev interview assignment. The task was to create an exercise that helps beginner programmers understand the concept of the Builder design pattern.
+This is a solution to a software dev interview assignment. The task was to create an exercise that helps beginner programmers understand the concept of the Builder design pattern.
 
 ________________________________________________________
 
